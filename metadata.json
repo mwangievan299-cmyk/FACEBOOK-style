@@ -1,0 +1,6 @@
+{
+  "name": "Facebook",
+  "description": "Social network where everybody can post, share photos and videos, watch reels, interact with stories, reactions, comments, and connect with friends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
